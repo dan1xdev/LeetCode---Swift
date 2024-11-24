@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/palindrome-number
 class Solution {
     func isPalindrome(_ x: Int) -> Bool {
         let xStr = String(x) // Преобразуем число в строку
