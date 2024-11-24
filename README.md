@@ -1,1 +1,1 @@
-All tasks were taken from LeetCode[leetcode.com]
+All tasks were taken from [LeetCode](https://leetcode.com) 
